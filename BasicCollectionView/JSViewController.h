@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JSViewController : UIViewController
+@interface JSViewController : UICollectionViewController
 
 @end
